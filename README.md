@@ -1,0 +1,3 @@
+
+
+In Task 7 of the Data Analyst Internship, I created a basic SQLite database named `sales_data.db` using Python and the `sqlite3` library. I inserted sample sales data into a `sales` table, including product names, quantities, and prices. Using SQL queries within Python, I calculated the total quantity sold and total revenue for each product. The results were loaded into a Pandas DataFrame for analysis and printed for review. Finally, I visualized the revenue per product using a bar chart created with Matplotlib and saved the chart as `sales_chart.png`. This task helped me practice SQL integration with Python, data aggregation, and basic data visualization.
